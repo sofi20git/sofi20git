@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Blockchain based systems](https://github.com/motirebuma/Alchemy-Learn-Solidity)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 💬 Ask me about **php,html,CSS,javascript**
 
