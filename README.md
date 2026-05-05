@@ -1,6 +1,6 @@
 [![MasterHead](https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsb2ZmaWNlMTVfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2Zfd29ya184YmMxZjY2NS0zZGQ4LTQ0YWEtOWE4YS0zNjRhMTg0MDcxMWFfMS5qcGc.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sofoniyas Fasil</h1>
-<h3 align="center">An enthusiastic software engineering student</h3>
+<h3 align="center">An enthusiastic software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofi20git&label=Profile%20views&color=0e75b6&style=flat" alt="sofi20git" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **php,html,CSS,javascript**
+- 💬 Ask me about **php,html,CSS,javascript,python,React.js**
 
 - 📫 How to reach me **sofoniyasfasil@gmail.com**
 
