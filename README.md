@@ -31,7 +31,7 @@
        alt="Top Languages" /></p>
 
 <p><img align="center"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sofi20git&show_icons=true&locale=en&theme=tokyonight"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sofi20git&show_icons=true&theme=tokyonight"
        alt="GitHub Stats"  /></p>
 
 <p><img align="center"
