@@ -35,5 +35,5 @@
        alt="GitHub Stats"  /></p>
 
 <p><img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=sofi20git"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=sofi20git&theme=tokyonight"
        alt="GitHub Streak" /></p>
